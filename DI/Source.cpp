@@ -33,7 +33,7 @@ int main()
 	while (true)
 	{
 		//comment 2
-		//
+		//commit azure 4
 		//3 commit
 		HAL_GPIO_TogglePin(GPIOI, GPIO_PIN_1);
 		for (size_t i = 0; i < 10000; i++)
