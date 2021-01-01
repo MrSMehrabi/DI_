@@ -33,6 +33,8 @@ int main()
 	while (true)
 	{
 		//comment 2
+		//
+		//3 commit
 		HAL_GPIO_TogglePin(GPIOI, GPIO_PIN_1);
 		for (size_t i = 0; i < 10000; i++)
 		{
