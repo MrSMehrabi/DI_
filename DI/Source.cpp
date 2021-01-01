@@ -28,12 +28,11 @@ int main()
 	GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
 	HAL_GPIO_Init(GPIOI, &GPIO_InitStruct);
 	
-
+  
+	
 	while (true)
 	{
-		//comment 
-		// comment azure
-		
+		//comment 2
 		HAL_GPIO_TogglePin(GPIOI, GPIO_PIN_1);
 		for (size_t i = 0; i < 10000; i++)
 		{
