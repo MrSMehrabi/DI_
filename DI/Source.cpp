@@ -29,7 +29,7 @@ int main()
 	HAL_GPIO_Init(GPIOI, &GPIO_InitStruct);
 	
   
-	
+	//s.mehrabi@engineer.com
 	while (true)
 	{
 // commit azure 5
