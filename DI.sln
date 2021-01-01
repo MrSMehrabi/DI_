@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DI", "DI\DI.vcxproj", "{F4D8856E-7136-4596-A745-6087B2A3AAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D8856E-7136-4596-A745-6087B2A3AAA5}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{F4D8856E-7136-4596-A745-6087B2A3AAA5}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{F4D8856E-7136-4596-A745-6087B2A3AAA5}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{F4D8856E-7136-4596-A745-6087B2A3AAA5}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
